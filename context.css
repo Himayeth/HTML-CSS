@@ -1,0 +1,77 @@
+body {
+  font-family: century gothic;
+  background: #104E8B;
+}
+
+h1{
+  float: left;
+  color: black;
+}
+
+h3{
+  float: right;
+  color: black;
+}
+
+header {
+   width: 95%;
+  height: 100px;
+  background-color: white;
+  margin: 0px;
+  text-align: center;
+  padding: 5px 25px 0px 25px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 2px;
+}
+
+section {
+  width: 95%;
+  height: 375px;
+  background-color: white;
+  margin: 0px;
+  text-align: left;
+  padding: 5px 25px 0px 25px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 2px;
+}
+
+article{
+  float: left;
+  width: 30%;
+  height: 175px;
+  background-color: white;
+  margin: 0px;
+  text-align: left;
+  padding: 5px 25px 0px 25px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 2px;
+}
+
+article2{
+  float: right;
+  width: 57%;
+  height: 175px;
+  background-color: white;
+  margin: 0px;
+  text-align: left;
+  padding: 5px 25px 0px 25px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 2px;
+}
+
+footer {
+  clear: both;
+  width: 95.2%;
+  height: 50px;
+  background-color: white;
+  margin-top: 180px;
+  text-align: center;
+  padding: 5px 25px 0px 25px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 2px;
+}
